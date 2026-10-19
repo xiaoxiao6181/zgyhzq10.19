@@ -1,0 +1,1 @@
+import{l as s,r as a,m as o}from"./index-C6cXEEfH.js";const n=s("notifyList",()=>{const t=a();return{notifyList:o({get:()=>t.value,set:e=>{t.value=e}}),_notifyList:t}},{persist:!0}),u=s("read",()=>{const t=a();return{data:o({get:()=>t.value,set:e=>{t.value=e}}),_data:t}},{persist:!0});export{u as a,n as u};
